@@ -239,7 +239,7 @@ Mastering keyboard shortcuts dramatically speeds up CLI operations:
 pwd                           # Print current working directory
 cd path/to/folder             # Change directory
 cd ..                         # Go up one level
-
+,
 # File Management
 mkdir project && cd project   # Make folder and enter it
 touch app.js                  # Create file (POSIX)
