@@ -11,6 +11,7 @@ Welcome to the **Node.js Mastery Repository**. This folder is organized to guide
 - 📁 **[1) Node.js Architecture and Runtime Internals](file:///e:/application_install/xampp/htdocs/notes/NODEJS/1%29%20Node.js%20Architecture%20and%20Runtime%20Internals)** - Complete chapter 1 notes with 9 subchapter files.
 - 📁 **[2) Core Standard Modules and Node.js API Mastery](file:///e:/application_install/xampp/htdocs/notes/NODEJS/2%29%20Core%20Standard%20Modules%20and%20Node.js%20API%20Mastery)** - Complete chapter 2 notes with 8 subchapter files.
 - 📁 **[3) Buffer and Stream Processing High-Throughput IO](file:///e:/application_install/xampp/htdocs/notes/NODEJS/3%29%20Buffer%20and%20Stream%20Processing%20High-Throughput%20IO)** - Complete chapter 3 notes with 7 subchapter files.
+- 📁 **[5) Production Web Frameworks and API Architecture](file:///e:/application_install/xampp/htdocs/notes/NODEJS/5%29%20Production%20Web%20Frameworks%20and%20API%20Architecture)** - Complete chapter 5 notes with 7 subchapter files.
 
 ---
 
