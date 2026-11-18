@@ -23,7 +23,7 @@ Last updated: February 24, 2026
 - Google Cloud has a global network backbone.
 - You place resources close to users for low latency and in required geographies for compliance.
 - Architecture choices often balance latency, resilience, data residency, and cost.
-
+0
 ## 2) Regions and zones
 
 ### Definitions
